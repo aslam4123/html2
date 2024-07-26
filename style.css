@@ -1,0 +1,18 @@
+#div1{
+    background-color: orangered; color: antiquewhite; text-align: left;
+}
+#btn2{
+    background-color: red;
+}
+#btn1{
+    background-color: green;
+}
+#div2{
+    background-color: orangered; text-align: right;
+}
+#div3{
+    background-color: black; color: yellow; text-align: center;
+}
+#div4{
+    width: 500px;
+}
